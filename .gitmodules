@@ -6,3 +6,7 @@
 	path = pbl5-api
 	url = git@github.com:PBL5/api.git
 	branch = main
+[submodule "pbl5-rasp"]
+	path = pbl5-rasp
+	url = git@github.com:PBL5/rasp3.git
+	branch = main
