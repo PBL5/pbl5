@@ -2,3 +2,7 @@
 	path = pbl5-fe
 	url = git@github.com:PBL5/Web-FE.git
 	branch = main
+[submodule "pbl5-api"]
+	path = pbl5-api
+	url = git@github.com:PBL5/api.git
+	branch = main
