@@ -1,0 +1,4 @@
+[submodule "pbl5-fe"]
+	path = pbl5-fe
+	url = git@github.com:PBL5/Web-FE.git
+	branch = main
